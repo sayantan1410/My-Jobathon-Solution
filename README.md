@@ -1,0 +1,2 @@
+# My-Jobathon-Solution
+This is my solution of the Analytics Vidhya Hackathon - Jobathon. I got a public Leader board rank of 29 and a public Leader Board rank of 306. I have used a weighted average of two Lightgbm model and finally got a roc auc score of around .8735 in the public leader board. I tried doing feature engineering but the model gave better performance when I did minimal changes to the data. This is probably because the overfits in the training dataset extremely. 
